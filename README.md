@@ -1,4 +1,4 @@
-# EnigmaCode---Crittografia-Python
+3# EnigmaCode---Crittografia-Python
 Script di crittografia e gestione chiavi in python. 
 
 
@@ -9,7 +9,7 @@ Script di crittografia e gestione chiavi in python.
 
 
 ## Guida all'installazione:
-#### dopo aver installato python sul pc, clicca sul tasto windows e ricerca "* cmd *" dopo di che immetti prima la Utility 1 e successivamente la Utility 2. Dopo aver terminato tali passaggi apri la cartella e clicca su avvia_script.
+#### dopo aver installato python sul pc, clicca sul tasto windows e ricerca "* cmd *" dopo di che immetti prima la Utility 2 e successivamente la Utility 3. Dopo aver terminato tali passaggi apri la cartella e clicca su avvia_script.
 
 #### Nel momento in cui andrai a crittografare ricordati che ti chiederà:
 #### il file da crittografare
